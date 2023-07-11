@@ -1,1 +1,4 @@
 # Weapon-Detection-in-CCTV
+
+### The study aimed to develop a system for detecting weapons in bank surveillance videos, using a combination of Convolutional Neural Networks (CNN) and Long Short-Term Memory (LSTM) model. We have trained the system on a dataset of bank surveillance videos and achieved an accuracy of 98.80% on the test set. This means that the system was able to identify dangerous objects such as firearms with a high level of accuracy.
+### The proposed system is capable of detecting weapons and other dangerous objects in real-time, and it provides alerts to security personnel when such objects are detected. The study found that the CNN-LSTM model outperformed other state-of-the-art methods for weapon detection in surveillance videos. These results demonstrate the effectiveness of the proposed system for detecting weapons in bank surveillance videos, which could enhance security measures in banks and prevent potential threats. 
